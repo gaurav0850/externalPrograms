@@ -1,11 +1,8 @@
 package org.example.leetcode;
 
-import java.math.BigInteger;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-import java.util.stream.Collectors;
-import java.util.stream.IntStream;
 
 public class MultiplyStrings {
     public static void main(String[] args) {

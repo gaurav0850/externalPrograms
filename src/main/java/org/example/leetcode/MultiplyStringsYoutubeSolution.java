@@ -1,9 +1,5 @@
 package org.example.leetcode;
 
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
-
 public class MultiplyStringsYoutubeSolution {
     public static void main(String[] args) {
 
